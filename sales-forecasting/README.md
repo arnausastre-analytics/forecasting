@@ -27,10 +27,9 @@ Finalmente, se estiman las predicciones futuras y se representan gráficamente j
 ## Estructura del proyecto
 
 /sales-forecasting/
+
 ├── forecasting_sales.ipynb # Notebook con el desarrollo completo del análisis
-
 ├── dataset.csv # Dataset histórico de ventas utilizado
-
 └── README.md # Este documento
 
 
