@@ -39,8 +39,8 @@ Visualización de predicciones y explicaciones
 
 ## Resultados (ejemplo)
 
-📊 RMSE global: 12.95
-📊 MAE global : 10.21
+ RMSE global: 12.95
+ MAE global : 10.21
 
 Errores por producto:
 Producto RMSE MAE
