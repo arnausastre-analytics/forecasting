@@ -25,10 +25,10 @@ Este proyecto aplica modelos de forecasting con Prophet para prever la evolució
 
 ## Ejemplo de resultados
 
-📌 MAE : 2.91
-📌 RMSE : 3.44
-📌 MAPE : 2.83%
-🚨 Anomalías detectadas: 14 días
+ MAE : 2.91
+ RMSE : 3.44
+ MAPE : 2.83%
+ Anomalías detectadas: 14 días
 
 
 ### Visualizaciones destacadas
