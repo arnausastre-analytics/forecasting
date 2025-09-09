@@ -34,10 +34,10 @@ Predecir ocupación diaria a partir del histórico, con detección automática d
 
 ## Resultados
 
-📊 RMSE: 5.93
-📊 MAE : 4.83
-📌 MAPE: 9.71%
-🚨 36 días con ocupación prevista en el top 5%
+ RMSE: 5.93
+ MAE : 4.83
+ MAPE: 9.71%
+ 36 días con ocupación prevista en el top 5%
 
 ## Casos de uso reales
 
